@@ -1,1 +1,2 @@
 # Task-2
+It is about exploring the data using statistics and visual tools to better understand it before building any machine learning models. You will calculate basic stats like mean and median, and use graphs like histograms, boxplots, and pairplots to find patterns, trends, or unusual values. This helps you see relationships between features and detect any issues in the dataset. You'll use tools like Pandas, Matplotlib, and Seaborn to do this. The goal is to make sense of the data in a visual and simple way so you can make better decisions in future steps.
